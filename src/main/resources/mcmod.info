@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wcies",
+  "name": "Why Can't I Eat Saplings?",
+  "description": "A mod about eating saplings",
+  "version": "2.0.0",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Loraanicus"],
+  "credits": "Matt and Eli, for making me ask why I can't eat saplings",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
