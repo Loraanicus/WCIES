@@ -1,0 +1,9 @@
+//Items (Vanilla)
+item.oakSandwich.name=B.O.S.S.
+item.birchCookie.name=Birch Sapling Sugar Cookie
+item.acaciaPie.name=Acacia Sapling Apple Pie
+item.darkOakShnickers.name=Dark Oak Sapling Shnickers
+item.spruceChowder.name=Spruce Sapling Salmon Chowder
+item.jungleJambalaya.name=Jungle Sapling Jambalaya
+
+itemGroup.tab_WCIES=Why Can't I Eat Saplings?
